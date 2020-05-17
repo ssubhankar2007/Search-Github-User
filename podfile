@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'Search_Github_User' do
+pod 'SDWebImage' 
+end
+
